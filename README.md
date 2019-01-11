@@ -12,7 +12,7 @@ Target: x86_64-apple-darwin18.2.0`
 
 ![userInputTestFunction](screenshots/userInputTest.png)
 
-## Results
+### Results
 
 ![userInputTestResults](screenshots/userInputTestResults.png)
 
@@ -22,6 +22,6 @@ Target: x86_64-apple-darwin18.2.0`
 ![displayValuesFromServerFunction](screenshots/displayValuesFromServer.png)
 
 
-## Results
+### Results
 
 ![displayValuesFromServerResults](screenshots/displayValuesFromServerResults.png)
